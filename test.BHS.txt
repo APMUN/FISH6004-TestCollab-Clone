@@ -1,0 +1,9 @@
+#test R file
+
+dat1<-c(1,2,3)
+dat2<-5
+
+result<-dat^dat2
+
+#added corection factor
+result_corr<-relsul/2.4
